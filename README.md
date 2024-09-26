@@ -1,8 +1,8 @@
 # chat_distribuido
 Proyecto de chat distribuido en erlang
 #**Equipo elaborado por**
-"\n1".BEJARANO DUQUE ANTOINE 
-"\n"2.RODRIGUEZ GALLARDO PAUL 
+<br/>1.BEJARANO DUQUE ANTOINE 
+<br/>2.RODRIGUEZ GALLARDO PAUL 
 
 #**Tutorial**
 1. Compilar ambos modulos con el siguiente comando: erl -make
