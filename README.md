@@ -1,6 +1,6 @@
 # chat_distribuido
 Proyecto de chat distribuido en erlang
-#**Equipo elaborado por**
+<br/>**Equipo elaborado por**
 <br/>1.BEJARANO DUQUE ANTOINE 
 <br/>2.RODRIGUEZ GALLARDO PAUL 
 
