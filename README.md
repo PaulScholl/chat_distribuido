@@ -15,5 +15,3 @@ Proyecto de chat distribuido en erlang
 6. Registraremos nuestra terminal con el siguiente comando:<br/>**chat_client:add_user(nombreDeUsuario).**
 7. Para mandar mensajes usaremos el siguiente comando en nuestra terminal cliente:<br/>**chat_client:send_message(nombreDeUsuario,"Nuestro mensaje").**
 8. Y con ello podremos ver nuestros mensajes en nuestra terminal servidor.
-
-<script src="https://asciinema.org/a/tdg62GKY2E61mOjY2hSyUT2Aw" async></script>
