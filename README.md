@@ -17,4 +17,4 @@ Proyecto de chat distribuido en erlang
 8. Y con ello podremos ver nuestros mensajes en nuestra terminal servidor.
 
 **Todos los puntos de vista de la ejecución**
-https://asciinema.org/a/tdg62GKY2E61mOjY2hSyUT2Aw <br/> https://asciinema.org/a/FFV6crOGj5OfTki1g8O90qsno <br/> https://asciinema.org/a/NjhYyqAkRC80ueeokMTcJbWAU
+<br/>https://asciinema.org/a/tdg62GKY2E61mOjY2hSyUT2Aw <br/> https://asciinema.org/a/FFV6crOGj5OfTki1g8O90qsno <br/> https://asciinema.org/a/NjhYyqAkRC80ueeokMTcJbWAU
